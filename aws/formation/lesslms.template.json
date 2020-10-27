@@ -230,7 +230,7 @@
                         "Arn"
                     ]
                 },
-                "Runtime": "nodejs10.x",
+                "Runtime": "nodejs12.x",
 				"MemorySize": "512",
 				"Timeout": "10"
 				
@@ -254,7 +254,7 @@
                         "Arn"
                     ]
                 },
-                "Runtime": "nodejs10.x"
+                "Runtime": "nodejs12.x"
             }
         },
         "userLambda": {
@@ -277,7 +277,7 @@
                         "Arn"
                     ]
                 },
-                "Runtime": "nodejs10.x"
+                "Runtime": "nodejs12.x"
             }
         },
         "authLambda": {
@@ -298,7 +298,7 @@
                         "Arn"
                     ]
                 },
-                "Runtime": "nodejs10.x"
+                "Runtime": "nodejs12.x"
             }
         },
         "authLambdaAutorizer": {
@@ -362,7 +362,7 @@
                         "Arn"
                     ]
                 },
-                "Runtime": "nodejs10.x",
+                "Runtime": "nodejs12.x",
                 "Timeout": 25
             }
         },
